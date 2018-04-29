@@ -7,7 +7,7 @@ Ayrıca, web sayfasının hangi teknoloji/teknolojiler ile yazılmış olduğunu
 
 # Ayarlar
 https://www.seleniumhq.org/download/ Bu linkten kullanacağınız dil için indirme gerçekleştirebilirsiniz. Bu testte Python 3.11.0 versiyon için kurulum yaptım.
-Firefox ayarlaması için linkte bulunan size uygun driver'ı indirin ; https://github.com/mozilla/geckodriver/releases
+Firefox ayarlaması için linkte bulunan size uygun driver'ı indirin ve path yoluna ekleyın ; https://github.com/mozilla/geckodriver/releases
 
 # Test Case -Senaryo
 1. http://www.amazon.com adresi ziyaret edilecek ve ana sayfanın açıldığı onaylanacak
